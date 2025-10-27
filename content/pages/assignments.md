@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section features information on the assignments for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -27,11 +25,11 @@ Your task is to write a literature review that synthesizes recent research on th
 
 _Readings_
 
-1.  Donnelly, Jeffrey P., and Jonathan D. Woodruff. "[Intense Hurricane Activity over the Past 5,000 Years Controlled by El Niño and the West African Monsoon](https://www.nature.com/articles/nature05834)." _Nature_ 447 (2007): 465–68.
-2.  Elsner, James B., James P. Kossin, and Thomas H. Jagger. "[The Increasing Intensity of the Strongest Tropical Cyclones](https://www.nature.com/articles/nature07234)." _Nature_ 455 (2008): 92–95.
-3.  Emanuel, Kerry. "[Increasing Destructiveness of Tropical Cyclones over the Past 30 Years](https://www.nature.com/articles/nature03906)." _Nature_ 436 (2005): 686–88.
-4.  O'Gorman, Paul A. "[Understanding the Varied Response of the Extratropical Storm Tracks to Climate Change](https://www.pnas.org/content/107/45/19176)." _PNAS_ 107, no. 45 (2010): 19176–80.
-5.  Patricola, Christina M., and Michael F. Wehner. "[Anthropogenic Influences on Major Tropical Cyclone Events](https://www.nature.com/articles/s41586-018-0673-2)." _Nature_ 563 (2018): 339–46.
+1.  Donnelly, Jeffrey P., and Jonathan D. Woodruff. "{{% resource_link "983d8d4c-6073-4b5a-b055-292d14d4b481" "Intense Hurricane Activity over the Past 5,000 Years Controlled by El Niño and the West African Monsoon" %}}." _Nature_ 447 (2007): 465–68.
+2.  Elsner, James B., James P. Kossin, and Thomas H. Jagger. "{{% resource_link "bea6cea1-b357-4a74-994f-a5da74f4fae9" "The Increasing Intensity of the Strongest Tropical Cyclones" %}}." _Nature_ 455 (2008): 92–95.
+3.  Emanuel, Kerry. "{{% resource_link "e38d1ec2-7538-4b26-bd64-34e369c8b7e8" "Increasing Destructiveness of Tropical Cyclones over the Past 30 Years" %}}." _Nature_ 436 (2005): 686–88.
+4.  O'Gorman, Paul A. "{{% resource_link "23fc16d9-7ea2-4fd6-9cfe-9aab226e4ad0" "Understanding the Varied Response of the Extratropical Storm Tracks to Climate Change" %}}." _PNAS_ 107, no. 45 (2010): 19176–80.
+5.  Patricola, Christina M., and Michael F. Wehner. "{{% resource_link "0c754a03-a581-4e21-a482-ed67e2b2b9c2" "Anthropogenic Influences on Major Tropical Cyclone Events" %}}." _Nature_ 563 (2018): 339–46.
 
 Peer Review Assignment
 ----------------------

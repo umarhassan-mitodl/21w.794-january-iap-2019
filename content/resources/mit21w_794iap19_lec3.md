@@ -4,8 +4,6 @@ description: ''
 file: /courses/21w-794-graduate-technical-writing-workshop-january-iap-2019/8451801910d77afa22772a7b6928f039_MIT21W_794IAP19_lec3.pdf
 file_size: 608243
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
